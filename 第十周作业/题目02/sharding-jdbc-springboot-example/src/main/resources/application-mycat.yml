@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: 123456
+      url: jdbc:mysql://192.168.56.108:8066/hero
